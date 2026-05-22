@@ -5,10 +5,9 @@ LLM-based policy-mix coding, extracted from the
 [GreenTrac_AutoCoder](https://github.com/CNielsen94/GreenTrac_AutoCoder)
 replication package.
 
-> Madsen, S.H.J., Nielsen, C., Olsen, T., Dreyer, E., Hansen, T. & Jurowetzki, R. (2025).
-> *Using large language models in policy mix analysis.*
+> Madsen, S.H.J., Nielsen, C., Olsen, T., Dreyer, E., Hansen, T. & Jurowetzki, R. (2026).
+> *Large Language Models, Tacit Knowledge, and the Jagged Frontier of Policy Mix Coding*
 
-(Above reference is a bit outdated, will fix soon)
 
 This repository contains **only** the iteration codebooks and the iteration-6 prompt
 templates — none of the coded results, ground-truth data, or analysis scripts.
