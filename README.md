@@ -1,9 +1,7 @@
 # GreenTrac — Iteration Codebooks & Prompts
 
 The per-iteration codebook definitions and the iteration-6 prompt set used for
-LLM-based policy-mix coding, extracted from the
-[GreenTrac_AutoCoder](https://github.com/CNielsen94/GreenTrac_AutoCoder)
-replication package.
+LLM-based policy-mix coding.
 
 > Madsen, S.H.J., Nielsen, C., Olsen, T., Dreyer, E., Hansen, T. & Jurowetzki, R. (2026).
 > *Large Language Models, Tacit Knowledge, and the Jagged Frontier of Policy Mix Coding*
