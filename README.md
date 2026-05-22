@@ -53,7 +53,3 @@ hierarchical code categories (submission metadata, objectives, measures, value c
 and the fields the prompts extract for each.
 
 ---
-
-*Extracted from the GreenTrac_AutoCoder replication package. For the full prompt set,
-master codebook, coded results, ground-truth data, and analysis scripts, see the
-original repository.*
